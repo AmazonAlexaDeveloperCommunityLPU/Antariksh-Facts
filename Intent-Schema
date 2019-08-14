@@ -1,0 +1,33 @@
+{
+"interactionModel": {
+"languageModel": {
+"invocationName": "अंतरिक्ष facts",
+"intents": [
+{
+"name": "AMAZON.CancelIntent",
+"samples": []
+},
+{
+"name": "AMAZON.HelpIntent",
+"samples": []
+},
+{
+"name": "AMAZON.StopIntent",
+"samples": []
+},
+{
+"name": "AMAZON.NavigateHomeIntent",
+"samples": []
+},
+{
+"name": "GetNewFactIntent",
+"slots": [],
+"samples": [
+"मुझे एक fact बताओ "
+]
+}
+],
+"types": []
+}
+}
+}
